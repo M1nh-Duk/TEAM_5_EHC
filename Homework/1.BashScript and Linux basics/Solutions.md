@@ -12,7 +12,7 @@
 - Solution 2:
 
 ![image](https://user-images.githubusercontent.com/100038173/162116841-508215f4-75f1-44a1-8101-34e0453863a3.png)
-- Use the <b>find</b> command to locate the file that has different size 
+- Use the <b>find</b> command to locate the file that has different size than the others 
 - Use <b>cat</b> to see the content of that file
 
 ### Ex 6:
