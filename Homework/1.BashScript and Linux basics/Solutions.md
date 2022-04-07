@@ -1,6 +1,9 @@
 
 ### Ex 1:
 
+![image](https://user-images.githubusercontent.com/100038173/162161007-57341d13-8a40-4ca2-a99d-bcff1837b51c.png)
+
+
 ### Ex 3:
 ![image](https://user-images.githubusercontent.com/100038173/161412081-95867334-92e3-4ddb-a52a-b328e75ed556.png)
 - Use the first command to extract the .zip file 
